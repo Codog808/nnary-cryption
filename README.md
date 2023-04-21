@@ -1,3 +1,5 @@
+# Highlight and copy to download
+ pip install -i https://test.pypi.org/simple/ nnary-Hotodog808==0.0.1
 # n-nary cryption details
 A python script able to encode and decode a given string given a certain base; and, if wanted, an optional Given_Key and For_Modulo (base-93)
 ## For_Modulo: Reference-For-Higher-Values
